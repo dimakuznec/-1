@@ -36,11 +36,14 @@ color: rgb(130, 245, 159);
     color: #fff;
     font-size: 80px;
     width: 1000px;
+    font-weight: 900;
+
     text-align: center;
+
     margin-right: auto;
     margin-left: auto;
 
-    margin-top: 146px;
+    margin-top: 80px;
 }
 
 .subtitle {
@@ -48,7 +51,10 @@ color: rgb(130, 245, 159);
     font-size: 56px;
     font-weight: 900;
     text-align: center;
-    
+
     margin-right: auto;
     margin-left: auto;
+
+    width: 514px;
 }
+
